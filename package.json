@@ -1,6 +1,6 @@
 {
   "name": "log-node-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simply log the Node.js running version in the console. Log also a separator line after.",
   "author": "marlou <pro@marc-loupias.fr>",
   "private": false,
