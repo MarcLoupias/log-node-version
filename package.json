@@ -3,8 +3,17 @@
   "version": "1.0.0",
   "description": "Simply log the Node.js running version in the console. Log also a separator line after.",
   "author": "marlou <pro@marc-loupias.fr>",
-  "private": true,
+  "private": false,
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcLoupias/log-node-version/issues"
+  },
+  "homepage": "https://github.com/MarcLoupias/log-node-version",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcLoupias/log-node-version.git"
+  },
+  "keywords": [],
   "engines": {
     "node": ">=6.0.0",
     "npm": ">=5.2.0"
